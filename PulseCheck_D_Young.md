@@ -25,9 +25,9 @@ In our first one-on-one meeting you will spend a couple minutes explaining your 
 
 ### Semester Mod Project
 
-For my project, I have 2 ideas in mind. The first project idea is for a personal project that I have been working on. It is a 2.5D platformer (A 3D game played from a 2D perspective) where multiple characters will have different abilities and will fight each other while using thier abilities for combat and also to maneuver around the stage in unique ways. I want to learn about 3D game development, but I like the style of games like Super Smash Bros and Mortal Kombat. 
+For my project, I have 2 ideas in mind. The first project idea is for a personal project that I have been working on. It is a 2.5D platformer (A 3D game played from a 2D perspective) where multiple characters will have different abilities and will fight each other while using their abilities for combat and also to maneuver around the stage in unique ways. I want to learn about 3D game development, but I like the style of games like Super Smash Bros and Mortal Kombat. 
 
-The second is to use the FPS Kit listed below. I would mod the game to have new guns with different characteristics and abilites to add depth to the game. I would also create new rooms for the player to explore and if add different effects to the monsters and manipulate their AI if I could. I will choose whichever project works better for the learning pathway I am going down for the class.
+The second is to use the FPS Kit listed below. I would mod the game to have new guns with different characteristics and abilites to add depth to the game. I would also create new rooms for the player to explore and add different effects to the monsters and manipulate their AI if I could. I will choose whichever project works better for the learning pathway I am going down for the class.
 
 
 
@@ -67,7 +67,7 @@ Unity has great resources for their [Unity Learn platform](https://learn.unity.c
 
 I would like to go down the Unity Software Package pathway for this project. I come from a computer engineering/science background and have a very solid understanding of C++ and C#, and I would like to dive deeper into the Unity Editor and learn to build my own editor tools and packages.   
 From the Unity learn page, I found the Junior Programmer pathway very interesting. I would like to learn to better organize my code using interfaces and inheritance. I am also interested in the mission on managing scene flow and data.   
-I am also interested in the creative core pathway. I would like to learn about shaders and visual effects to make my game look exciting and visually appealing. Also, I don't know much about post-processing and would like to learn more about that.
+Another pathway that I am interested in is the creative core pathway. I would like to learn about shaders and visual effects to make my games look more exciting and visually appealing. Also, I don't know much about post-processing and would like to learn more about that.
 
 
 > This is an **EXAMPLE**!!
