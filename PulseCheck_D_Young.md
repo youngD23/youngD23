@@ -2,14 +2,6 @@
 
 # 2023 Spring Semester Contract
 
-## My Project
-
-**Project**  
-For my project, I have 2 ideas in mind. The first project idea is for a personal project that I have been working on. It is a 2.5D platformer (A 3D game played from a 2D perspective) where multiple characters will have different abilities and will fight each other while using thier abilities for combat and also to maneuver around the stage in unique ways. The second is to use the FPS Kit listed below. I want to learn about 3D game development, but I like the style of games like Super Smash Bros and Mortal Kombat. I will choose whichever project works better for the learning pathway I am going down for the class.
-
-**Learning Pathway**  
-I would like to go down the Unity Software Package pathway for this project. I come from a computer engineering/science background and have a very solid understanding of C++ and C#, and I would like to dive deeper into the Unity Editor and learn to build my own editor tools and packages.
-
 <Image>
 <a name="Dalle GenerationSloth"></a>
 <img src="Images\SlothLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A sloth wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="PulseHeader" class="centerheader"/>
@@ -30,6 +22,14 @@ This is your contract, also known as a PULSE Check document. **P**rogressing **U
 ## Project Idea
 
 In our first one-on-one meeting you will spend a couple minutes explaining your project idea and it's associated game kit that you will be modding, we will use these few minutes to make adjustments and scope it correctly based on your interests. We will also identify if you want to follow the Unity Learn Pathway or the Unity Software Package Pathway. Both will require some level of Unity Learn.
+
+### Semester Mod Project
+
+For my project, I have 2 ideas in mind. The first project idea is for a personal project that I have been working on. It is a 2.5D platformer (A 3D game played from a 2D perspective) where multiple characters will have different abilities and will fight each other while using thier abilities for combat and also to maneuver around the stage in unique ways. I want to learn about 3D game development, but I like the style of games like Super Smash Bros and Mortal Kombat. 
+
+The second is to use the FPS Kit listed below. I would mod the game to have new guns with different characteristics and abilites to add depth to the game. I would also create new rooms for the player to explore and if add different effects to the monsters and manipulate their AI if I could. I will choose whichever project works better for the learning pathway I am going down for the class.
+
+
 
 >**PROJECT MOD DETAILS**
 >
@@ -62,6 +62,13 @@ In our first one-on-one meeting you will spend a couple minutes explaining your 
 ### Unity Learn Game Pathway
 
 Unity has great resources for their [Unity Learn platform](https://learn.unity.com/). A major portion of this class is utilizing those services, please identify which Unity Learn Pathway you want to explore and then how that pathway could help lead towards a potential certification opportunity later after this class.
+
+#### My Unity Learn Pathway  
+
+I would like to go down the Unity Software Package pathway for this project. I come from a computer engineering/science background and have a very solid understanding of C++ and C#, and I would like to dive deeper into the Unity Editor and learn to build my own editor tools and packages.   
+From the Unity learn page, I found the Junior Programmer pathway very interesting. I would like to learn to better organize my code using interfaces and inheritance. I am also interested in the mission on managing scene flow and data.   
+I am also interested in the creative core pathway. I would like to learn about shaders and visual effects to make my game look exciting and visually appealing. Also, I don't know much about post-processing and would like to learn more about that.
+
 
 > This is an **EXAMPLE**!!
 >**Combination of Creative Core, Junior Programmer, and 3D-Kit Tutorial**
