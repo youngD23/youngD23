@@ -2,6 +2,14 @@
 
 # 2023 Spring Semester Contract
 
+## My Project
+
+**Project**  
+For my project, I have 2 ideas in mind. The first project idea is for a personal project that I have been working on. It is a 2.5D platformer (A 3D game played from a 2D perspective) where multiple characters will have different abilities and will fight each other while using thier abilities for combat and also to maneuver around the stage in unique ways. The second is to use the FPS Kit listed below. I want to learn about 3D game development, but I like the style of games like Super Smash Bros and Mortal Kombat. I will choose whichever project works better for the learning pathway I am going down for the class.
+
+**Learning Pathway**  
+I would like to go down the Unity Software Package pathway for this project. I come from a computer engineering/science background and have a very solid understanding of C++ and C#, and I would like to dive deeper into the Unity Editor and learn to build my own editor tools and packages.
+
 <Image>
 <a name="Dalle GenerationSloth"></a>
 <img src="Images\SlothLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A sloth wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="PulseHeader" class="centerheader"/>
