@@ -37,3 +37,7 @@ Package managers help simplify the process of software development by providing 
 
 **Why would you want to create your own Unity package(s)?**
 Creating your own Unity packages would make iterative development more simple since it could handle some of the more repetitive tasks. It would also help you in future projects where you would need similar functionality. Having the package already created would save time.
+
+## Week 4
+
+The mod kit that I plan on using is the Corgi Engine. This looks very interesting and it seems like it would be very useful to me long term because I love making 2D and 3D platformers. Using this engine would greatly enhance my workflow, so I look forward to learning about it and seeing what I can do with it.
