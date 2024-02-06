@@ -1,10 +1,15 @@
 # Class Notes
 
-## Shortcuts
+## Unity Shortcuts
 
 **F** - Focus on object (zoom in/out)  
 **Ctrl A** - Select everything   
 **Ctrl I** - select everything except the thing currently selected (inverse)   
+
+## Visual Studio Shortcuts
+
+**Ctrl F** - search for text
+**Click + shift + click** - Highlight block of text
 
 ### Set Collision Layers   
 Edit -> Project Settings -> Physics -> Set Collisions at bottom
